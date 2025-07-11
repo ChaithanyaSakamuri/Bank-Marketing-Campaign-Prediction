@@ -1,7 +1,6 @@
 # Bank Marketing Campaign Prediction 🏦📈
 
-![Bank Marketing](<img width="1150" height="600" alt="image" src="https://github.com/user-attachments/assets/a4107dfd-f043-47b2-bf52-3ef74d72e84a" />
-) 
+![Bank Marketing](https://cleverads.com.ph/blog/wp-content/uploads/2023/03/bank-marketing.png) 
 
 ## 📌 Overview
 Predicts customer responses to bank term deposit campaigns using a **Decision Tree classifier**. Developed during my internship at **SkillCraft Technology**, this project demonstrates end-to-end ML workflow from data preprocessing to model interpretation.
