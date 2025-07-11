@@ -1,6 +1,7 @@
 # Bank Marketing Campaign Prediction 🏦📈
 
-![Bank Marketing](https://example.com/bank-marketing-image.jpg) *[Replace with relevant image]*
+![Bank Marketing](<img width="1150" height="600" alt="image" src="https://github.com/user-attachments/assets/a4107dfd-f043-47b2-bf52-3ef74d72e84a" />
+) 
 
 ## 📌 Overview
 Predicts customer responses to bank term deposit campaigns using a **Decision Tree classifier**. Developed during my internship at **SkillCraft Technology**, this project demonstrates end-to-end ML workflow from data preprocessing to model interpretation.
